@@ -19,3 +19,5 @@
 - ⌨️ Lorem Ipsum
 - ⌨️ Grocery
 - ⌨️ Slider
+
+Copyright © 2021 [Nirajan Mahara](https://www.linkedin.com/in/nirajanmahara/)
